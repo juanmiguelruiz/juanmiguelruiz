@@ -25,7 +25,7 @@ I'm Juanmi a software engineer. I'm from a small town in Cádiz.
 ![Static Badge](https://img.shields.io/badge/Code-ReactQuery-blue?logo=reactquery)
 ![Static Badge](https://img.shields.io/badge/Code-Redux-blue?logo=redux)
 ![Static Badge](https://img.shields.io/badge/Code-Jest-blue?logo=jest)
-![Static Badge](https://img.shields.io/badge/Code-Storybook-blue?logo=storybook)
 ![Static Badge](https://img.shields.io/badge/Code-styled%20components-blue?logo=styledcomponents)
+![Static Badge](https://img.shields.io/badge/Tools-Storybook-blue?logo=storybook)
 
 
